@@ -1,3 +1,6 @@
+'''
+This program is a simple game used to guess the number
+'''
 import random
 import sys
 num=random.randrange(1,10)
